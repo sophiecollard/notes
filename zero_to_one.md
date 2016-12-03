@@ -19,9 +19,9 @@ Monopolies are built on one or more of the following advantages: proprietary tec
 
 The act of creation is far more important than the fact that old industries might not like what you create. If your company can be summed up by its opposition to already existing firms, it can't be completely new and is unlikely to become a monopoly.
 
-Don't fall prey to the temptation of defining your company as serving an extremely narrow market to give yourself and others the illusion that you are building a monopoly. While most startups begin by serving a very narrow market before expanding into adjacent ones (see notes on network effects), this market needs to be isolated and served by few or no competitors.
+Don't fall prey to the temptation of defining your company as serving an extremely narrow market to give yourself and others the illusion that you are building a monopoly. While most startups begin by serving a very narrow market before expanding into adjacent ones (see section on network effects), this market needs to be isolated and served by few or no competitors.
 
-Eg: You may be the only British food restaurant in Palo Alto but you won't have a monopoly. That's because your real market is not that of restaurants serving roast beef and Yorkshire pudding. Rather, you're competing with thousands of others in the restaurant market for practically any type of cuisine priced between $20 and $50 per head.
+Eg: You may be the only British food restaurant in Palo Alto but you won't have a monopoly. This is because your real market is not that of restaurants serving roast beef and Yorkshire pudding. Rather, you're competing with thousands of others in the restaurant market for practically any type of cuisine priced between $20 and $50 per person. Plus there may be good reasons there are no other restaurants serving British food in Palo Alto.
 
 #### On network effects
 Network effects can only be harnessed with a product that is valuable to its very first users, when the network is necessarily small.
